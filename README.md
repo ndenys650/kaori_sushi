@@ -4,3 +4,7 @@ Kaori sushi is a local sushi restaurant I found and decided to try recreating th
 
 Tech Utilized:
 VueJS, Vue-Router, Vuetify, and Git/Github for hosting
+
+
+Direct Link:
+https://ndenys650.github.io/kaori_sushi/
